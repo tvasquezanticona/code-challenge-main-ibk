@@ -1,0 +1,9 @@
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/code-challenge-main/code-challenge-main-ibk/src/main/java/com/example/codechallenge/service/impl/ConversionServiceImpl.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/code-challenge-main/code-challenge-main-ibk/src/main/java/com/example/codechallenge/repository/ConversionHistoryRepository.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/code-challenge-main/code-challenge-main-ibk/src/main/java/com/example/codechallenge/CodeChallengeApplication.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/code-challenge-main/code-challenge-main-ibk/src/main/java/com/example/codechallenge/controller/CurrencyExchangeFeignClient.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/code-challenge-main/code-challenge-main-ibk/src/main/java/com/example/codechallenge/mapper/ExchangeRateClientMapper.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/code-challenge-main/code-challenge-main-ibk/src/main/java/com/example/codechallenge/model/entity/ConversionHistory.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/code-challenge-main/code-challenge-main-ibk/src/main/java/com/example/codechallenge/model/api/ExchangeRateRequest.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/code-challenge-main/code-challenge-main-ibk/src/main/java/com/example/codechallenge/service/ConversionService.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/code-challenge-main/code-challenge-main-ibk/src/main/java/com/example/codechallenge/model/api/ExchangeRateResponse.java
