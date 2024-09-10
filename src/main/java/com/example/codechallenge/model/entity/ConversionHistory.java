@@ -20,15 +20,15 @@ public class ConversionHistory {
         private Long id;
         private double amount;
         private double convertedAmount;
-        private String fromCurrency;
-        private String toCurrency;
+        private String sourceCurrency;
+        private String targetCurrency;
         private double exchangeRate;
 
         public ConversionHistory(ExchangeRateRequest request){
             this.amount=request.getAmount();
             this.convertedAmount= request.getAmount();
-            this.fromCurrency=request.getFromCurrency();
-            this.toCurrency=request.getToCurrency();
+            this.sourceCurrency=request.getSourceCurrency();
+            this.targetCurrency=request.getTargetCurrency();
             this.exchangeRate=request.getExchangeRate();
 
         }

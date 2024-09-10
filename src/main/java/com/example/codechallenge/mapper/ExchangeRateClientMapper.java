@@ -15,11 +15,11 @@ public class ExchangeRateClientMapper {
     **/
     public static ConversionHistory mapEntity(ExchangeRateRequest request) {
         ConversionHistory response = new ConversionHistory();
-        response.setExchangeRate(request.getExchangeRate());
-        response.setToCurrency(request.getToCurrency());
         response.setAmount(request.getAmount());
-        response.setFromCurrency(request.getFromCurrency());
+        response.setSourceCurrency(request.getSourceCurrency());
+        response.setTargetCurrency(request.getTargetCurrency());
         response.setConvertedAmount(request.getConvertedAmount());
+        response.setExchangeRate(request.getExchangeRate());
         return response;
     }
 

@@ -1,8 +1,5 @@
 {
-  "username": "john.james",
-  "firstName": "John",
-  "lastName": "James",
-  "email": "john@email.com",
-  "password": "12345",
-  "phone": "999888777"
+  "amount": 100,
+  "fromCurrency": "USD",
+  "toCurrency": "EUR"
 }

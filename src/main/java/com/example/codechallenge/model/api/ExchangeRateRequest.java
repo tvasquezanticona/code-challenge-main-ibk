@@ -12,8 +12,8 @@ public class ExchangeRateRequest {
     private Long id;
     private double amount;
     private double convertedAmount;
-    private String fromCurrency;
-    private String toCurrency;
+    private String sourceCurrency;
+    private String targetCurrency;
     private double exchangeRate;
 
 }

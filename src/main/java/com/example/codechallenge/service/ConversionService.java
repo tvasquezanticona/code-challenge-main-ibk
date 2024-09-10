@@ -5,5 +5,7 @@ import com.example.codechallenge.model.entity.ConversionHistory;
 
 public interface ConversionService {
    // double convertAmount(double amount, String fromCurrency, String toCurrency) ;
-      ConversionHistory saveConversion(ConversionHistory conversion);
+     // ConversionHistory saveConversion(ConversionHistory conversion);
+
+    ConversionHistory saveConversion(double amount, String sourceCurrency, String targetCurrency);
 }
