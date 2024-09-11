@@ -1,9 +1,0 @@
-com/example/codechallenge/CodeChallengeApplication.class
-com/example/codechallenge/service/impl/ConversionServiceImpl.class
-com/example/codechallenge/service/ConversionService.class
-com/example/codechallenge/repository/ConversionHistoryRepository.class
-com/example/codechallenge/mapper/ExchangeRateClientMapper.class
-com/example/codechallenge/controller/CurrencyExchangeFeignClient.class
-com/example/codechallenge/model/entity/ConversionHistory.class
-com/example/codechallenge/model/api/ExchangeRateResponse.class
-com/example/codechallenge/model/api/ExchangeRateRequest.class
