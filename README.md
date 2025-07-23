@@ -4,5 +4,5 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto-api.git
-   cd proyecto-api
+   https://github.com/tvasquezanticona/code-challenge-main-ibk.git
+   cd code-challenge-main-ibk
