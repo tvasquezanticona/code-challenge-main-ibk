@@ -1,0 +1,13 @@
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/application/service/ExchangeService.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/domain/api/ExchangeRateResponse.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/CodeChallengeApplication.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/infrastructure/adapter/output/JpaExchangeRepositoryAdapter.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/infrastructure/repository/JpaExchangeRepository.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/config/ApplicationConfig.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/infrastructure/repository/ExchangeEntity.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/domain/port/ExchangeRepositoryPort.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/infrastructure/adapter/input/ExchangeController.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/domain/model/Exchange.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/domain/port/ExchangeRatePort.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/infrastructure/adapter/output/ExchangeRateClient.java
+/Users/tavitainesvasquezanticona/Documents/2024/udemy2/reto/retazo/code-challenge-main-ibk/src/main/java/com/example/codechallenge/domain/api/ExchangeRateRequest.java

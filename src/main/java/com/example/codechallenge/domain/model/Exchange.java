@@ -1,42 +1,44 @@
 package com.example.codechallenge.domain.model;
 
+import java.util.List;
 
-    public class Exchange {
-        private double amount;
-        private double convertedAmount;
-        private String sourceCurrency;
-        private String targetCurrency;
-        private double exchangeRate;
+public class Exchange {
 
-        public Exchange(double amount, double convertedAmount, String sourceCurrency, String targetCurrency, double exchangeRate) {
-            this.amount = amount;
-            this.convertedAmount = convertedAmount;
-            this.sourceCurrency = sourceCurrency;
-            this.targetCurrency = targetCurrency;
-            this.exchangeRate = exchangeRate;
-        }
+    private double precioBase;
+    private  List<String> ajustesAplicados;
+    private double primaTotal;
 
-        // Getters y setters
 
-        public double getAmount() {
-            return amount;
-        }
-
-        public double getConvertedAmount() {
-            return convertedAmount;
-        }
-
-        public String getSourceCurrency() {
-            return sourceCurrency;
-        }
-
-        public String getTargetCurrency() {
-            return targetCurrency;
-        }
-
-        public double getExchangeRate() {
-            return exchangeRate;
-        }
+    public Exchange(double precioBase, double primaTotal, List<String> ajustesAplicados) {
+        this.precioBase = precioBase;
+        this.primaTotal = primaTotal;
+        this.ajustesAplicados = ajustesAplicados;
     }
 
+    // Getters y setters
 
+
+    public double getPrecioBase() {
+        return precioBase;
+    }
+
+    public void setPrecioBase(double precioBase) {
+        this.precioBase = precioBase;
+    }
+
+    public List<String> getAjustesAplicados() {
+        return ajustesAplicados;
+    }
+
+    public void setAjustesAplicados(List<String> ajustesAplicados) {
+        this.ajustesAplicados = ajustesAplicados;
+    }
+
+    public double getPrimaTotal() {
+        return primaTotal;
+    }
+
+    public void setPrimaTotal(double primaTotal) {
+        this.primaTotal = primaTotal;
+    }
+}

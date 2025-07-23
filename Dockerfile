@@ -1,5 +1,7 @@
-FROM openjdk:11.0-jre-slim
-EXPOSE 8091
-ARG JAR_FILE=target/*.jar
-ADD ${JAR_FILE} cloud-api-gateway.jar
-ENTRYPOINT ["java","-jar","/code-challenge-main-ibk.jar"]
+FROM eclipse-temurin:17-jdk-alpine
+
+WORKDIR /app
+COPY target/seguro-api.jar app.jar
+
+EXPOSE 8080
+CMD ["java", "-jar", "app.jar"]

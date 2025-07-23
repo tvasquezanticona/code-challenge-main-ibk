@@ -1,0 +1,10 @@
+{
+  "prima_base": 500.0,
+  "ajustes_aplicados": [
+    {"motivo": "Año del vehículo > 2015", "ajuste": "+15%"},
+    {"motivo": "Uso de carga", "ajuste": "+10%"},
+    {"motivo": "Edad del conductor > 50", "ajuste": "-5%"},
+    {"motivo": "Marca BMW", "ajuste": "+20%"}
+  ],
+  "prima_total": 675.0
+}

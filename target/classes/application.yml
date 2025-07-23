@@ -19,7 +19,7 @@ spring:
 
 application:
   api:
-    path: '/api/v1/convertcurrency'
+    path: '/api/v1/vehicle'
 
 server:
   port: 8081
